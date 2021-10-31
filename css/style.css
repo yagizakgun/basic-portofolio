@@ -133,8 +133,7 @@ hr {
 .project-card  {
     width: 300px;
     height: 550px;
-    box-shadow: 5px 5px 20px grey;
-    /* margin: 5px; */
+    box-shadow: 5px 5px 20px grey; 
 }
 
 .project-container {
@@ -143,7 +142,7 @@ hr {
     color: black;
 }
 
-@media only screen and (max-width: 100px) {
+@media only screen and (max-width: 1566px) {
     .project-container {
         display: flex;
         flex-wrap: wrap;
